@@ -1,12 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0,119,50,0,180,100,0,210,234&height=280&section=header&text=Hi,%20I'm%20Charumathi!%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=✨%20Data%20Analyst%20in%20the%20Making%20🚀&descAlignY=78&descSize=20&stroke=00B4D8&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=280&section=header&text=Hyy,%20I'm%20Charumathi!%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=✨%20Data%20Analyst%20in%20the%20Making%20🚀&descAlignY=78&descSize=20)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=📊+Aspiring+Data+Analyst;🎓+CS+with+Data+Analytics+%7C+3rd+Year;💡+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;🌊+Turning+Raw+Data+into+Real+Insights;🚀+Future+Data+Scientist+in+Progress!" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="200"/>
-</div>
 
 ---
 
@@ -62,12 +58,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
-</div>
-
 <p align="center">
   <i>🌊 "The ocean of data is vast — I'm here to navigate it!"</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0,0,119,50,0,180,100,0,210,234&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=120&section=footer)
