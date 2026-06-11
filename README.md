@@ -12,7 +12,7 @@
 - 📊 Currently interning & building real-world **Power BI dashboards**
 - 🌱 Learning **DAX, Data Visualization & Analytics**
 - 🎯 Goal: Grow as a **Data Analyst** → become a **Data Scientist**
-- 🍳 I enjoy cooking, exploring design & always learning something new
+- 🍳 I enjoy exploring design & always curious in learning something new
 - 💬 Ask me about **Power BI, Python, or Excel!**
 
 ---
