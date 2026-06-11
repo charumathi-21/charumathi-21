@@ -1,16 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0,43,182,100,210,234&height=220&section=header&text=Hi,%20I'm%20Charumathi!%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Data%20Analyst%20in%20the%20Making%20🚀&descAlignY=85&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0,119,50,0,180,100,0,210,234&height=280&section=header&text=Hi,%20I'm%20Charumathi!%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=✨%20Data%20Analyst%20in%20the%20Making%20🚀&descAlignY=78&descSize=20&stroke=00B4D8&strokeWidth=2)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=📊+Aspiring+Data+Analyst;🎓+CS+with+Data+Analytics+%7C+3rd+Year;💡+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;🌊+Turning+Data+into+Insights;🚀+On+my+way+to+becoming+a+Data+Scientist!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=📊+Aspiring+Data+Analyst;🎓+CS+with+Data+Analytics+%7C+3rd+Year;💡+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;🌊+Turning+Raw+Data+into+Real+Insights;🚀+Future+Data+Scientist+in+Progress!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charumathi-21&label=Profile%20Views&color=00B4D8&style=flat-square" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="200"/>
+</div>
 
 ---
 
-<img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Analysis GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🙋‍♀️ About Me
 
@@ -62,8 +62,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+</div>
+
 <p align="center">
   <i>🌊 "The ocean of data is vast — I'm here to navigate it!"</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0,43,182,100,210,234&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0,0,119,50,0,180,100,0,210,234&height=150&section=footer)
